@@ -1,0 +1,1 @@
+{"name":"Local: Sundorban","url":"g:\\Introduction to Algorithm\\Module - 15\\Sundorban.cpp","tests":[{"id":1707837351786,"input":"5\nS P P P P\nT P T P P\nT P P P P\nP T E T T\nP T P T T","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Introduction to Algorithm\\Module - 15\\Sundorban.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: practice","url":"g:\\Introduction to Algorithm\\Module-3\\practice.cpp","tests":[{"id":1706082694535,"input":"4 4\n. . # .\n. . . .\n. . . #\n# . . .\n1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Introduction to Algorithm\\Module-3\\practice.cpp","group":"local","local":true}

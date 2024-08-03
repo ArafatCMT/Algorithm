@@ -1,0 +1,1 @@
+{"name":"Local: creating_expression","url":"g:\\Introduction to Algorithm\\Module - 19.5\\creating_expression.cpp","tests":[{"id":1709011681301,"input":"5 5\n1 2 3 4 5","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Introduction to Algorithm\\Module - 19.5\\creating_expression.cpp","group":"local","local":true}

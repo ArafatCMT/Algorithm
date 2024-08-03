@@ -1,0 +1,1 @@
+{"name":"Local: shortest_routes_i","url":"g:\\Introduction to Algorithm\\Module - 6.5\\shortest_routes_i.cpp","tests":[{"id":1706931786448,"input":"3 4\n1 2 6\n1 3 2\n3 2 3\n1 3 4","output":"0 5 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Introduction to Algorithm\\Module - 6.5\\shortest_routes_i.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: bfs_with_level_pair","url":"g:\\Introduction to Algorithm\\Module-2\\bfs_with_level_pair.cpp","tests":[{"id":1705857588130,"input":"7 8\n0 1\n1 3\n4 5\n0 4\n3 5\n0 3\n1 2\n2 6\n0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Introduction to Algorithm\\Module-2\\bfs_with_level_pair.cpp","group":"local","local":true}
